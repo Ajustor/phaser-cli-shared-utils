@@ -1,5 +1,5 @@
 {
-  "name": "@ajustor/phaser-cli-shared-utils",
+  "name": "ajustor-phaser-cli-shared-utils",
   "version": "1.0.0",
   "keywords": [
     "phaser",
@@ -7,7 +7,7 @@
     "cli-shared-utils"
   ],
   "description": "Shared utilities for phaser-cli packages",
-  "repository": "ajustor/phaser-cli",
+  "repository": "ajustor/phaser-cli-shared-utils",
   "main": "index.js",
   "license": "MIT"
 }
